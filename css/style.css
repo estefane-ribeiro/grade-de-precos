@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+}
+.parte1{
+    padding: 50px;
+}
+
+.parte1-titulo {
+    color: hsl(179, 62%, 43%);
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    
+}
+
+.parte1-subtitulo {
+    color: hsl(71, 73%, 54%);
+    margin-bottom: 20px;
+}
+
+.parte1-paragrafo {
+    color:  hsl(218, 22%, 67%);
+    width: 65%;
+    min-width: 400px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.parte2 {
+    display: flex;
+    
+}
+
+.parte2-metade1 {
+    width: 50%;
+    background-color: hsl(179, 62%, 43%);
+    padding: 50px;
+    color: white;
+}
+
+.parte2-metade1-subtitulo { 
+    margin-bottom: 20px;
+}
+
+.parte2-metade1-preco {
+    display: inline;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+
+.parte2-metade1-mes {
+    color: hsl(204, 43%, 93%);
+}
+
+.parte2-metade1-paragrafo {
+    margin-top: 20px;
+    
+}
+
+.parte2-metade1-botao {
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+    background-color: hsl(71, 73%, 54%);
+}
+
+.parte2-metade1-botao:hover {
+    background-color: hsla(71, 91%, 65%, 0.932);
+}
+.parte2-metade2 {
+    background-color: hsl(179, 72%, 44%);
+    padding: 50px;
+    width: 50%;
+    
+}
+
+.parte2-metade2-subtitulo {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.parte2-metade2-paragrafo {
+    width: 45%;
+    color: hsl(204, 43%, 93%);
+    line-height: 30px;
+    min-width: 200px;
+}
+
