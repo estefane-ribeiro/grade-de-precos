@@ -17,5 +17,6 @@ a criação de uma tela de venda de um produto.
 # Visualização
 
 <img src="https://user-images.githubusercontent.com/99495540/153797874-935a4e84-d650-4470-b712-37f96b98a298.png">
-
+<br><br>
+<br><br>
 <img src="https://user-images.githubusercontent.com/99495540/153797883-6b4afb8a-24f4-437a-98b1-3f8192b406fe.png">
